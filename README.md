@@ -1,6 +1,6 @@
 <h1 align="center">Hi <span><img width="50px" height="50px" src="https://media1.giphy.com/media/PjgnBBmpk2iwhv1IO6/200w.webp?cid=ecf05e47zcb0thagktxj6xoag3zisvcm92z1mgwr8hirvmcj&rid=200w.webp" /></span>, Ashish Pratap Singh here!</h1>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Devops | Build and Release Engineer | Python Developer | SRE</h3>
   
  <p align="center" height="50" width="50"  >
   <img src=https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif >
